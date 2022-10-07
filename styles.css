@@ -1,0 +1,86 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(9, 4, 107);
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.container-one{
+    height: auto;
+    background-color: white;
+    padding: 5px 5px 5px 5px;  
+    border-radius: 5px 5px 5px 5px;
+    width:25%;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    align-items: center;
+    box-sizing: content-box;
+    margin-top: 100px;
+    box-sizing: border-box;
+
+}
+input{
+    width: 97%;
+    
+}
+button{
+     width: 100%;
+     height: 100%;
+     margin-top: 10px;
+     color: white;
+     background-color: green;
+     border-style: hidden;
+     padding: 5px 0px 5px 0px;
+ } 
+ form{
+    height: 70vh;   
+}
+
+.open{
+    text-align: center;
+}
+.open p{
+    margin-top: -20px;
+}
+.first{
+    margin-top: 20px;
+}
+.one{
+    padding-top: 10px;   
+}
+.two{
+    padding-top: 10px;   
+}
+.three{
+    padding-top: 10px;   
+}
+.four{
+    padding-top: 10px;   
+}
+.pend-one{
+    font-size: smaller;
+    text-align: center;
+}
+.pend-two{
+    font-size: small;
+    text-align: center;
+    color: blueviolet;
+}
+.span-one{
+    color: black;
+}
+.span-two{
+    color: black;
+}
+a{
+    color: aquamarine;
+    text-decoration: none;
+    margin-left: 5px;
+}
+footer{
+    text-align: center;
+    color: white;
+    margin-top: 5px;
+}
